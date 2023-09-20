@@ -1,0 +1,174 @@
+.bon {
+float: right;
+padding: 10px;
+font-size: 20px;
+color: #71797e;
+}
+#for {
+    font-size: 15px;
+}
+.bon:hover {
+    color: #000;
+}
+.fon:hover {
+    color: #000;
+}
+.fon {
+    padding: 5px;
+    font-size: 30px;
+    color: #71797e;
+}
+.kon {
+    margin: 0 10px;
+    height: 38vh;
+    border-radius: 10px;
+    background-color: #00b875;
+    color: white;
+}
+#kon {
+    padding: 10px;
+    margin: 10px;
+}
+.win {
+    float: right;
+    color: white;
+    font-size: 12px;
+}
+.win:hover {
+    color: black;
+
+}
+.rip {
+    float: left;
+    font-size: 12px;
+}
+.yip {
+    margin-left: 10px;
+}
+#koe {
+    padding: 10px;
+}
+.cip {
+    background-color: white;
+    color: #00B875;
+    padding: 10PX;
+    text-align: center;
+    border-radius: 10px;
+    width: 100%;
+    margin: 35px;
+}
+.cip:hover {
+    color: #000;
+}
+@media only screen and (min-width: 768px) {
+    /* for  desktop:*/
+    .cip {
+        margin: 100px;
+    }
+}
+.aip {
+    margin-left: 25px;
+}
+
+@media only screen and (min-width: 768px) {
+    /* for  desktop:*/
+    .aip {
+        margin-left: 90px;
+    } 
+}
+.aip2 {
+    margin-left: 18px;
+}
+
+@media only screen and (min-width: 768px) {
+    /* for  desktop:*/
+    .aip2 {
+        margin-left: 120px;
+    } 
+}
+
+@media only screen and (min-width: 768px) {
+    /* for  desktop:*/
+    .aip3 {
+        margin-left: 130px;
+    } 
+}
+.don {
+    padding: 10px;
+    margin: 10px;
+}
+.cip2 {
+    
+    background-color: white;
+    color: #00B875;
+    padding: 10PX;
+    text-align: center;
+    border-radius: 50px;
+    width: 100%;
+    margin: 25px;
+}
+.cip2:hover{
+    color: #000;
+}
+
+
+.cip3 {
+    background-color: #EDF9F5;
+    color: #00B875;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    width: 100%;
+    margin: 15px;
+}
+
+.cip3:hover {
+    color: black;
+}
+
+
+.cip4 {
+    background-color: #D4FEF2;
+    color: #00B875;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+    width: 100%;
+    margin: 30px;
+    border: 1px solid #B1E1D5;
+}
+
+.cip4:hover {
+    color: black;
+}
+@media only screen and (min-width: 768px) {
+    /* for  desktop:*/
+    .cip3 {
+        margin: 140px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    /* for  desktop:*/
+    .cip2 {
+        margin: 140px;
+    }
+}
+.rol {
+    width: 100%;
+    border-radius: 20px;
+    background-color: #F8F8FA;
+    height: 50px;
+}
+#rol {
+    margin: 10px;
+    padding: 15px;
+    color: #939c98;
+
+}
+.rol2 {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #f8f8fa;
+    height: 80px;
+}
